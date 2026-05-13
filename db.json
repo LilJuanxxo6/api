@@ -1,0 +1,124 @@
+{
+  "tiposArchivosAdjuntos": [
+    {
+      "id": 1,
+      "extension": ".pdf",
+      "mimeType": "application/pdf",
+      "descripcion": "Documento PDF"
+    },
+    {
+      "id": 2,
+      "extension": ".doc",
+      "mimeType": "application/msword",
+      "descripcion": "Documento Word"
+    },
+    {
+      "id": 3,
+      "extension": ".docx",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "descripcion": "Documento Word moderno"
+    },
+    {
+      "id": 4,
+      "extension": ".xls",
+      "mimeType": "application/vnd.ms-excel",
+      "descripcion": "Archivo Excel"
+    },
+    {
+      "id": 5,
+      "extension": ".xlsx",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "descripcion": "Archivo Excel moderno"
+    },
+    {
+      "id": 6,
+      "extension": ".ppt",
+      "mimeType": "application/vnd.ms-powerpoint",
+      "descripcion": "Presentación PowerPoint"
+    },
+    {
+      "id": 7,
+      "extension": ".pptx",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "descripcion": "Presentación PowerPoint moderna"
+    },
+    {
+      "id": 8,
+      "extension": ".txt",
+      "mimeType": "text/plain",
+      "descripcion": "Archivo de texto"
+    },
+    {
+      "id": 9,
+      "extension": ".csv",
+      "mimeType": "text/csv",
+      "descripcion": "Archivo CSV"
+    },
+    {
+      "id": 10,
+      "extension": ".json",
+      "mimeType": "application/json",
+      "descripcion": "Archivo JSON"
+    },
+    {
+      "id": 11,
+      "extension": ".xml",
+      "mimeType": "application/xml",
+      "descripcion": "Archivo XML"
+    },
+    {
+      "id": 12,
+      "extension": ".zip",
+      "mimeType": "application/zip",
+      "descripcion": "Archivo comprimido ZIP"
+    },
+    {
+      "id": 13,
+      "extension": ".rar",
+      "mimeType": "application/vnd.rar",
+      "descripcion": "Archivo comprimido RAR"
+    },
+    {
+      "id": 14,
+      "extension": ".jpg",
+      "mimeType": "image/jpeg",
+      "descripcion": "Imagen JPG"
+    },
+    {
+      "id": 15,
+      "extension": ".jpeg",
+      "mimeType": "image/jpeg",
+      "descripcion": "Imagen JPEG"
+    },
+    {
+      "id": 16,
+      "extension": ".png",
+      "mimeType": "image/png",
+      "descripcion": "Imagen PNG"
+    },
+    {
+      "id": 17,
+      "extension": ".gif",
+      "mimeType": "image/gif",
+      "descripcion": "Imagen GIF"
+    },
+    {
+      "id": 18,
+      "extension": ".webp",
+      "mimeType": "image/webp",
+      "descripcion": "Imagen WEBP"
+    },
+    {
+      "id": 19,
+      "extension": ".mp4",
+      "mimeType": "video/mp4",
+      "descripcion": "Video MP4"
+    },
+    {
+      "id": 20,
+      "extension": ".mp3",
+      "mimeType": "audio/mpeg",
+      "descripcion": "Audio MP3"
+    }
+  ]
+}
